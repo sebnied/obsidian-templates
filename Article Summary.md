@@ -9,7 +9,11 @@ Tags:
 # 📄 PDF Extract
 
 
-# ☘️ To Dos / Reflections
+# 📋 To-Dos
+
+- [ ] Don't forget to add the tag
+
+# ☘️ Reflections
 
 How my life / behaviour / thoughts / ideas have changed as a result of reading the book.
 
